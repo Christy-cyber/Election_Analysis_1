@@ -48,5 +48,5 @@ Analyses of the election results showed the following:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election Audit Summary
-Python software is a viable option for delivering and analyzing election results. Its versatility would also allow for results to be calculated on a smaller scale by precinct or on a larger scale by House Districts.  Analyses could also be performed by party affiliation and other demographic data.
+Python software is a viable option for delivering and analyzing election results. Its versatility would also allow for results to be calculated on a smaller scale by precinct or on a larger scale by House Districts.  Analyses could also be performed by party affiliation and other demographic data.  Results could also be presented alphabetically by county.
 
