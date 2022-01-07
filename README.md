@@ -1,33 +1,52 @@
-# Election_Analysis_1
+# Colorado Election Analysis
 
-## Project Overview
-The Colorado Board of Elections requested the following tasks in order to complete the election audit of a recent election:
+## Overview of Election Audit
+The Colorado Board of Elections wanted to know if Python software would be a viable option for delivering and analyzing election results.  They requested the following tasks in order to complete the election audit of a recent election using Python:
 
 1.  Calculate the total number of votes
-2.  Provide a complete list of candidates
-3.  Calculate the total number of votes that each candidate received
-4.  Calculate the percentage of the total votes for each candidate
-5.  Determine the winner of the elction based on popular vote
+2.  Provide a complete list of counties
+3.  Calculate voter turnout for each county
+4.  Calculate percentage of votes for each county out of the total number of votes
+5.  Provide the county with the hightest voter turnout
+6.  Provide a complete list of candidates
+7.  Calculate the total number of votes that each candidate received
+8.  Calculate the percentage of the total votes for each candidate
+9.  Determine the winner of the elction based on popular vote
 
 ## Resources
-1.  Data Source:  election_results.csv
-2.  Software: Python 3.7.6; Visual Studio Code 1.63.2
+-  Data Source:  election_results.csv
+-  Software: Python 3.7.6; Visual Studio Code 1.63.2
 
-## Summary
+## Election Audit Results
 Analyses of the election results showed the following:
-- There were "x" votes cast in the election
-- Candidates in the election included:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+- There were 369,711 votes cast in the election
+
+- Counties included:
+    - Jefferson
+    - Denver
+    - Arapahoe
+
+- Results for each county were as follows:
+    - Jefferson County had 10.5% of the vote and 38,855 number of votes.
+    - Denver County had 82.8% of the vote and 306,055 number of votes.
+    - Arapahoe County had 6.7% of the vote and 24,801 number of votes.
+
+- County with the highest voter turnout:
+    - Denver
+
+- Candidates running in the election included:
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
+
 - Results for each candidate were as follows:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
+    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+
 - The winner of the election was:
-    - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+    - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
+Python software is a viable option for delivering and analyzing election results. Its versatility would also allow for results to be calculated on a smaller scale by precinct or on a larger scale by House Districts.  Analyses could also be performed by party affiliation and other demographic data.
 
