@@ -19,7 +19,7 @@ The Colorado Board of Elections wanted to know if Python programming language wo
 
 ## Election Audit Results
 Analyses of the election results showed the following:
-- There were 369,711 votes cast in the election
+- There were 369,711 votes cast in the election.
 
 - Counties included:
     - Jefferson
