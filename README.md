@@ -1,7 +1,7 @@
 # Colorado Election Analysis
 
 ## Overview of Election Audit
-The Colorado Board of Elections wanted to know if Python software would be a viable option for delivering and analyzing election results.  They requested the following tasks in order to complete the election audit of a recent election using Python:
+The Colorado Board of Elections wanted to know if Python programming language would be a viable option for delivering and analyzing election results.  They requested the following tasks in order to complete the election audit of a recent election using Python:
 
 1.  Calculate the total number of votes
 2.  Provide a complete list of counties
@@ -48,5 +48,5 @@ Analyses of the election results showed the following:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election Audit Summary
-Python software is a viable option for delivering and analyzing election results. Its versatility would also allow for results to be calculated on a smaller scale by precinct or on a larger scale by House Districts.  Analyses could also be performed by party affiliation and other demographic data.  Results could also be presented alphabetically by county.
+Python programming language is a viable option for delivering and analyzing election results. Its versatility would also allow for results to be calculated on a smaller scale by precinct or on a larger scale by House Districts.  Analyses could also be performed by party affiliation and other demographic data.  Results could also be presented alphabetically by county.
 
