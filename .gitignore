@@ -9,7 +9,7 @@ __pycache__/
 *.so
 
 # .DS_Store
-.DS_STore
+.DS_Store
 
 # Distribution / packaging
 .Python
